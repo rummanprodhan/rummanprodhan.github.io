@@ -7,7 +7,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2009-10-01
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://www.mdpi.com/1424-8220/22/21/8467)'
+paperurl: https://www.mdpi.com/1424-8220/22/21/8467
 citation: 'Akter, S., Prodhan, R. A., Pias, T. S., Eisenberg, D., & Fresneda Fernandez, J. (2022). M1M2: deep-learning-based real-time emotion recognition from neural activity. Sensors, 22(21), 8467.'
 ---
 

@@ -4,7 +4,6 @@ title: "Welcome to My Academic Homepage"
 author_profile: true
 ---
 
-## Welcome to My Academic Homepage
 
 Hello, I’m **Rumman Ahmed Prodhan**, a passionate researcher and educator in the field of Artificial Intelligence (AI) and Machine Learning (ML), with a strong focus on healthcare applications. Currently, I am a **Lecturer** at the **Department of Computer Science & Engineering** at Northern University Bangladesh, where I teach and supervise projects in AI, machine learning, and software development.
 

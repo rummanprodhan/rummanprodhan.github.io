@@ -24,9 +24,9 @@ author:
   avatar           : "profile.jpg"
   name             : "Rumman Ahmed Prodhan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Lecturer, Department of Computer Science & Engineering"
   location         : "Dhaka, Bangladesh"
-  designation      : "Lecturer, Department of Computer Science & Engineering"
+  designation      : #"Lecturer, Department of Computer Science & Engineering"
   employer         : "Northern University Bangladesh"
   uri              : https://nub.ac.bd/pims/faculty-member/s6c8altx/rumman-ahmed-prodhan
   email            : "rumman153@gmail.com" 

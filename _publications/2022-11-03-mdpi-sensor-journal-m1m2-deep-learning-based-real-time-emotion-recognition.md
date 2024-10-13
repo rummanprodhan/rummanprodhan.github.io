@@ -1,7 +1,7 @@
 ---
 title: "M1M2: Deep-Learning-Based Real-Time Emotion Recognition from Neural Activity"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2022-11-03-mdpi-sensor-journal-m1m2-deep-learning-based-real-time-emotion-recognition
 excerpt: 'This paper proposes two CNN models (M1 and M2) for emotion recognition from brain signals using EEG data, achieving nearly perfect accuracy.'
 date: 2022-11-03

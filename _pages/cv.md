@@ -9,56 +9,117 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# Objective
+Motivated researcher with expertise in artificial intelligence, machine learning, and data science, seeking to pursue a PhD in Computer Science focused on innovative applications of AI and ML in healthcare and other real-world domains.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+# Education
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **B.Sc. in Computer Science & Engineering**  
+  University of Asia Pacific, Dhaka, Bangladesh, April 2018 - June 2022  
+  *Cumulative CGPA: 3.79/4.00*  
+  *CGPA of last 2 years: 3.96/4.00*  
+  *CGPA of last semester: 4.00/4.00*
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Higher Secondary Certificate**, BCIC College, Dhaka, Bangladesh, 2014 - 2016  
+  GPA: 5.00/5.00
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
+* **Dakhil Examination Certificate**, Muhammadabad Islamia Alim Madrasah, Dhaka, Bangladesh, 2012 - 2014  
+  GPA: 5.00/5.00
+
+# Work Experience
+* **Lecturer (Full time)**  
+  Northern University Bangladesh, Sep 2022 - Present  
+  Conducting BSc courses, including Database Management System, Artificial Intelligence, Computer Architecture, and Software Development. Supervising undergraduate theses on machine learning and deep learning.
+
+* **Volunteer Assistant Researcher (Remote)**  
+  Neuro-Analytics Lab, NJIT, USA, Jul 2022 - Present  
+  Submitted journal articles and collaborated on research focused on AI and deep learning.
+
+* **SEO Team Lead (Part-time, Remote)**  
+  Marketing Doorway, Dhaka, Bangladesh, Jul 2017 - Sep 2022  
+  Managed a team of SEO associates and optimized website traffic strategies.
+
+* **Intern (Research & Development)**  
+  Bondstein Technologies Limited, Dhaka, Bangladesh, Jan 2022 - Jun 2022  
+  Developed a real-time conveyor belt fault detection system for British American Tobacco (BAT).
+
+* **SEO Specialist (Part-time, Remote)**  
+  Lead Technology, Dhaka, Bangladesh, Jul 2016 - Jul 2017
+
+# Publications
+<ul>{% for post in site.publications reversed %}  
+    {% include archive-single-cv.html %}  
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+* **Published Journal (03 Nov 2022):**  
+  Sumya Akter†, Rumman Ahmed Prodhan†, Tanmoy Sarkar Pias, David Eisenberg, Jorge Fresneda Fernandez.  
+  *"M1M2: Deep Learning-Based Real-Time Emotion Recognition from Neural Activity."* Sensors, 22(21), 8467.  
+  [doi:10.3390/s22218467](https://doi.org/10.3390/s22218467)  
+  †These authors contributed equally.
+
+* **Published Paper (11 Jun 2023):**  
+  Rumman Ahmed Prodhan, Sumya Akter, Muhammad Bin Mujib, Md. Akhtaruzzaman Adnan, Tanmoy Sarkar Pias.  
+  *"Emotion Recognition from Brain Wave using Multitask Machine Learning Leveraging Residual Connections."*  
+  MIET 2022, Noakhali, Bangladesh.  
+  [doi:10.1007/978-3-031-34622-4_10](https://doi.org/10.1007/978-3-031-34622-4_10)
+
+* **Published Paper (01 Jan 2023):**  
+  Sumya Akter, Rumman Ahmed Prodhan, Muhammad Bin Mujib, Md. Akhtaruzzaman Adnan, Tanmoy Sarkar Pias.  
+  *"Evaluating the Effectiveness of Classification Algorithms for EEG Sentiment Analysis."* ICSADL 2022, Lalitpur, Nepal.  
+  [doi:10.1007/978-981-19-5443-6_17](https://doi.org/10.1007/978-981-19-5443-6_17)
+
+* **Published Paper (2024):**  
+  Rumman Ahmed Prodhan, Sumya Akter, Tanmoy Sarkar Pias, Md. Akhtaruzzaman Adnan.  
+  *"Optimal EEG Electrode Set for Emotion Recognition From Brain Signals: An Empirical Quest."* ABC 2022, London, UK.  
+  [arXiv:2311.17204](https://arxiv.org/abs/2311.17204)
+
+* **Undergraduate Thesis (01 Jun 2022):**  
+  *"Emotion Recognition from Facial Expression and Brain Signals,"* Supervised by Md. Akhtaruzzaman Adnan, Co-Supervised by Tanmoy Sarkar Pias, University of Asia Pacific.
+
+# Ongoing Research
+* Pediatric teeth segmentation from dental radiographs (Transfer learning)
+* Emotion recognition from EEG signals (Subject-independent)
+* Review on emotion recognition from brain signals
+* Bibliometric analysis on emotion recognition
+* Real-time emotion and face recognition using CNN
+* Fault detection model for conveyor belts (Lightweight)
+
+# Projects
+* Real-time emotion recognition and attendance system for classes (Raspberry Pi)
+* Live face recognition from webcam using CNN: [GitHub](https://github.com/rumman153)
+* Conveyor belt fault detection system for BAT (Raspberry Pi)
+* Bangladeshi travel blog using Django: Live & Demo
+* Air Tickets Management (SQL): [GitHub](https://github.com/rumman153/Database/tree/master/Airport%20Ticket%20Management)
+* Employee Management (Java): [GitHub](https://github.com/rumman153/Java/tree/master/Employee)
+* 2D endless runner game using Unity: [GitHub](https://github.com/rumman153/Computer-Graphics/tree/main/Stay%20Safe)
+
+# Skills
+* **Programming Languages:** Python, Java, C, C++, HTML, CSS  
+* **Machine Learning Tools:** Keras, TensorFlow, PyTorch, OpenCV  
+* **Robotics:** Arduino, Raspberry Pi, Jetson Nano  
+* **Frameworks:** Django, Bootstrap  
+* **App Development:** Unity  
+* **Databases:** SQL, MySQL  
+* **Software Tools:** LaTeX, VOSviewer, Bibexcel, Matlab, Codeblocks, Pycharm, Prolog  
+* **Networking:** Cisco Packet Tracer
+
+# Language Proficiency
+* **IELTS Academic:** Overall band score - 8; Listening - 8.5, Reading - 8.0, Writing - 7.0, Speaking - 7.5
+
+# Awards and Achievements
+* **VC’s Honor List:**  
+  Awarded by the University of Asia Pacific for outstanding academic performance in 4th year (2nd and 1st semesters), 3rd year (2nd and 1st semesters), and 2nd year (2nd semester).
+
+* **Dean’s Honor List:**  
+  Awarded by the University of Asia Pacific for outstanding academic performance in 2nd year (1st semester).
+
+
+# References
+* **Tanmoy Sarkar Pias**, Doctoral Candidate, Computer Science, Virginia Tech, USA  
+  tanmoysarkar@vt.edu, +1 (540) 449-2137  
+
+* **Md. Akhtaruzzaman Adnan**, Assistant Professor, Dept. of CSE, University of Asia Pacific, Bangladesh  
+  adnan.cse@uap-bd.edu, +880 1711281379
+
+* **David Eisenberg**, Assistant Professor, Information Management and Business Analytics, Feliciano School of Business, Montclair State University  
+  Email: eisenbergd@montclair.edu  

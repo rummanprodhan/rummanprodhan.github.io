@@ -2,11 +2,11 @@
 title: "Evaluating the Effectiveness of Classification Algorithms for EEG Sentiment Analysis"
 collection: publications
 category: conferences
-permalink: /publication/2023-01-01-evaluating-classification-algorithms-eeg-sentiment-analysis
+permalink: /publication/2023-01-01-evaluating-the-effectiveness-of-classification-algorithms-for-eeg
 excerpt: 'This paper evaluates the effectiveness of various machine learning algorithms and deep learning models for classifying sentiment from EEG signals.'
 date: 2023-01-01
 venue: 'Conference: Sentiment Analysis and Deep Learning, ICSADL 2022'
-#paperurl: 'https://link.springer.com/chapter/10.1007/978-981-19-5443-6_17'
+paperurl: 'https://link.springer.com/chapter/10.1007/978-981-19-5443-6_17'
 citation: 'Akter, S., Prodhan, R. A., Mujib, M. B., Adnan, M. A., & Pias, T. S. (2023). Evaluating the Effectiveness of Classification Algorithms for EEG Sentiment Analysis. In *Sentiment Analysis and Deep Learning: Proceedings of ICSADL 2022* (pp. 195-212). Singapore: Springer Nature Singapore.'
 ---
 
@@ -26,4 +26,6 @@ Abstract: Electroencephalogram (EEG) signals from the brain provide additional i
 ## Links
 
 [Read Paper](https://link.springer.com/chapter/10.1007/978-981-19-5443-6_17){: .btn .btn-primary }  
-[Download Preprint](https://www.research
+[Download Preprint](https://www.researchgate.net/publication/366779769_Evaluating_the_Effectiveness_of_Classification_Algorithms_for_EEG_Sentiment_Analysis){: .btn .btn-secondary }  
+[View Code on GitHub](https://github.com/rummanprodhan/Evaluating-the-Effectiveness-of-Classification-Algorithms-for-EEG){: .btn .btn-success }
+

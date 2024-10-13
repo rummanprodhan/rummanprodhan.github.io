@@ -56,31 +56,6 @@ Motivated researcher with expertise in artificial intelligence, machine learning
     {% include archive-single-cv.html %}  
   {% endfor %}</ul>
 
-* **Published Journal (03 Nov 2022):**  
-  Sumya Akter†, Rumman Ahmed Prodhan†, Tanmoy Sarkar Pias, David Eisenberg, Jorge Fresneda Fernandez.  
-  *"M1M2: Deep Learning-Based Real-Time Emotion Recognition from Neural Activity."* Sensors, 22(21), 8467.  
-  [doi:10.3390/s22218467](https://doi.org/10.3390/s22218467)  
-  †These authors contributed equally.
-
-* **Published Paper (11 Jun 2023):**  
-  Rumman Ahmed Prodhan, Sumya Akter, Muhammad Bin Mujib, Md. Akhtaruzzaman Adnan, Tanmoy Sarkar Pias.  
-  *"Emotion Recognition from Brain Wave using Multitask Machine Learning Leveraging Residual Connections."*  
-  MIET 2022, Noakhali, Bangladesh.  
-  [doi:10.1007/978-3-031-34622-4_10](https://doi.org/10.1007/978-3-031-34622-4_10)
-
-* **Published Paper (01 Jan 2023):**  
-  Sumya Akter, Rumman Ahmed Prodhan, Muhammad Bin Mujib, Md. Akhtaruzzaman Adnan, Tanmoy Sarkar Pias.  
-  *"Evaluating the Effectiveness of Classification Algorithms for EEG Sentiment Analysis."* ICSADL 2022, Lalitpur, Nepal.  
-  [doi:10.1007/978-981-19-5443-6_17](https://doi.org/10.1007/978-981-19-5443-6_17)
-
-* **Published Paper (2024):**  
-  Rumman Ahmed Prodhan, Sumya Akter, Tanmoy Sarkar Pias, Md. Akhtaruzzaman Adnan.  
-  *"Optimal EEG Electrode Set for Emotion Recognition From Brain Signals: An Empirical Quest."* ABC 2022, London, UK.  
-  [arXiv:2311.17204](https://arxiv.org/abs/2311.17204)
-
-* **Undergraduate Thesis (01 Jun 2022):**  
-  *"Emotion Recognition from Facial Expression and Brain Signals,"* Supervised by Md. Akhtaruzzaman Adnan, Co-Supervised by Tanmoy Sarkar Pias, University of Asia Pacific.
-
 # Ongoing Research
 * Pediatric teeth segmentation from dental radiographs (Transfer learning)
 * Emotion recognition from EEG signals (Subject-independent)
@@ -91,7 +66,7 @@ Motivated researcher with expertise in artificial intelligence, machine learning
 
 # Projects
 * Real-time emotion recognition and attendance system for classes (Raspberry Pi)
-* Live face recognition from webcam using CNN: [GitHub](https://github.com/rumman153)
+* Live face recognition from webcam using CNN
 * Conveyor belt fault detection system for BAT (Raspberry Pi)
 * Bangladeshi travel blog using Django: Live & Demo
 * Air Tickets Management (SQL): [GitHub](https://github.com/rumman153/Database/tree/master/Airport%20Ticket%20Management)
@@ -126,5 +101,5 @@ Motivated researcher with expertise in artificial intelligence, machine learning
 * **Md. Akhtaruzzaman Adnan**, Assistant Professor, Dept. of CSE, University of Asia Pacific, Bangladesh  
   adnan.cse@uap-bd.edu, +880 1711281379
 
-* **David Eisenberg**, Assistant Professor, Information Management and Business Analytics, Feliciano School of Business, Montclair State University  
-  Email: eisenbergd@montclair.edu  
+* **David Eisenberg**, Assistant Professor, Information Management and Business Analytics, Feliciano School of Business, Montclair State University 
+eisenbergd@montclair.edu  

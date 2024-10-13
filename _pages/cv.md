@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+# Download CV
+
+<a href="https://rummanprodhan.github.io/files/Resume_Rumman.pdf" class="btn btn-primary" download>Download CV (PDF)</a>
+
+
 # Objective
 Motivated researcher with expertise in artificial intelligence, machine learning, and data science, seeking to pursue a PhD in Computer Science focused on innovative applications of AI and ML in healthcare and other real-world domains.
 

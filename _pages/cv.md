@@ -99,5 +99,5 @@ Motivated researcher with expertise in artificial intelligence, machine learning
 * **Md. Akhtaruzzaman Adnan**, Assistant Professor, Dept. of CSE, University of Asia Pacific, Bangladesh  
   adnan.cse@uap-bd.edu, +880 1711281379
 
-* **David Eisenberg**, Assistant Professor, Information Management and Business Analytics, Feliciano School of Business, Montclair State University  
+* **David Eisenberg**, Assistant Professor, Information Management and Business Analytics, Feliciano School of Business, Montclair State University 
   eisenbergd@montclair.edu

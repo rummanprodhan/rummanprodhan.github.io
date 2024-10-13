@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Rumman Ahmed Prodhan"
+title                    : "Rumman's Personal Website"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,13 +22,14 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Rumman Ahmed Prodhan"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  location         : "Dhaka, Bangladesh"
+  designation      : "Lecturer, Department of Computer Science & Engineering"
+  employer         : "Northern University Bangladesh"
+  uri              : https://nub.ac.bd/pims/faculty-member/s6c8altx/rumman-ahmed-prodhan
+  email            : "rumman153@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

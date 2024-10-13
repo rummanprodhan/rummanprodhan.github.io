@@ -6,7 +6,7 @@ permalink: /publication/2023-01-01-evaluating-the-effectiveness-of-classificatio
 excerpt: 'This paper evaluates the effectiveness of various machine learning algorithms and deep learning models for classifying sentiment from EEG signals.'
 date: 2023-01-01
 venue: 'Conference: Sentiment Analysis and Deep Learning, ICSADL 2022'
-paperurl: 'https://link.springer.com/chapter/10.1007/978-981-19-5443-6_17'
+#paperurl: 'https://link.springer.com/chapter/10.1007/978-981-19-5443-6_17'
 citation: 'Akter, S., Prodhan, R. A., Mujib, M. B., Adnan, M. A., & Pias, T. S. (2023). Evaluating the Effectiveness of Classification Algorithms for EEG Sentiment Analysis. In *Sentiment Analysis and Deep Learning: Proceedings of ICSADL 2022* (pp. 195-212). Singapore: Springer Nature Singapore.'
 ---
 

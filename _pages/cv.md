@@ -16,20 +16,6 @@ redirect_from:
 ## Objective
 Motivated researcher with expertise in artificial intelligence, machine learning, and data science, seeking to pursue a PhD in Computer Science focused on innovative applications of AI and ML in healthcare and other real-world domains.
 
-## Education
-
-* **B.Sc. in Computer Science & Engineering**  
-  University of Asia Pacific, Dhaka, Bangladesh, April 2018 - June 2022  
-  *Cumulative CGPA: 3.79/4.00*  
-  *CGPA of last 2 years: 3.96/4.00*  
-  *CGPA of last semester: 4.00/4.00*
-
-* **Higher Secondary Certificate**, BCIC College, Dhaka, Bangladesh, 2014 - 2016  
-  GPA: 5.00/5.00
-
-* **Dakhil Examination Certificate**, Muhammadabad Islamia Alim Madrasah, Dhaka, Bangladesh, 2012 - 2014  
-  GPA: 5.00/5.00
-
 ## Work Experience
 * **Lecturer (Full time)**  
   Northern University Bangladesh, Sep 2022 - Present  
@@ -49,6 +35,20 @@ Motivated researcher with expertise in artificial intelligence, machine learning
 
 * **SEO Specialist (Part-time, Remote)**  
   Lead Technology, Dhaka, Bangladesh, Jul 2016 - Jul 2017
+
+## Education
+
+* **B.Sc. in Computer Science & Engineering**  
+  University of Asia Pacific, Dhaka, Bangladesh, April 2018 - June 2022  
+  *Cumulative CGPA: 3.79/4.00*  
+  *CGPA of last 2 years: 3.96/4.00*  
+  *CGPA of last semester: 4.00/4.00*
+
+* **Higher Secondary Certificate**, BCIC College, Dhaka, Bangladesh, 2014 - 2016  
+  GPA: 5.00/5.00
+
+* **Dakhil Examination Certificate**, Muhammadabad Islamia Alim Madrasah, Dhaka, Bangladesh, 2012 - 2014  
+  GPA: 5.00/5.00
 
 ## Publications
 <ul>{% for post in site.publications reversed %}  

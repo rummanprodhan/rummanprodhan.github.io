@@ -25,13 +25,17 @@ Motivated researcher with expertise in artificial intelligence, machine learning
   Neuro-Analytics Lab, NJIT, USA, Jul 2022 - Present  
   Submitted journal articles and collaborated on research focused on AI and deep learning.
 
-* **SEO Team Lead (Part-time, Remote)**  
-  Marketing Doorway, Dhaka, Bangladesh, Jul 2017 - Sep 2022  
-  Managed a team of SEO associates and optimized website traffic strategies.
+* **Founder & Content Creator**  
+  Tech Mash, YouTube, May 2017 - Present  
+  I run a tech-focused YouTube channel with over 50,000 subscribers, where I create educational videos in English on technology-related topics, including tutorials, troubleshooting, and product reviews. [Visit Channel](https://youtube.com/techmash)
 
 * **Intern (Research & Development)**  
   Bondstein Technologies Limited, Dhaka, Bangladesh, Jan 2022 - Jun 2022  
   Developed a real-time conveyor belt fault detection system for British American Tobacco (BAT).
+
+* **SEO Team Lead (Part-time, Remote)**  
+  Marketing Doorway, Dhaka, Bangladesh, Jul 2017 - Sep 2022  
+  Managed a team of SEO associates and optimized website traffic strategies.
 
 * **SEO Specialist (Part-time, Remote)**  
   Lead Technology, Dhaka, Bangladesh, Jul 2016 - Jul 2017
@@ -47,8 +51,6 @@ Motivated researcher with expertise in artificial intelligence, machine learning
 * **Higher Secondary Certificate**, BCIC College, Dhaka, Bangladesh, 2014 - 2016  
   GPA: 5.00/5.00
 
-* **Dakhil Examination Certificate**, Muhammadabad Islamia Alim Madrasah, Dhaka, Bangladesh, 2012 - 2014  
-  GPA: 5.00/5.00
 
 ## Publications
 <ul>{% for post in site.publications reversed %}  

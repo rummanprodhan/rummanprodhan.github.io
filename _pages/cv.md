@@ -22,7 +22,7 @@ Motivated researcher with expertise in artificial intelligence, machine learning
   Conducting BSc courses, including Database Management System, Artificial Intelligence, Computer Architecture, and Software Development. Supervising undergraduate theses on machine learning and deep learning.
 
 * **Volunteer Assistant Researcher (Remote)**  
-  Neuro-Analytics Lab, NJIT, USA, Jul 2022 - Present  
+  Neuro-Analytics Lab, NJIT, USA, Jul 2022 - June 2023  
   Submitted journal articles and collaborated on research focused on AI and deep learning.
 
 * **Founder & Content Creator**  
@@ -89,17 +89,17 @@ Motivated researcher with expertise in artificial intelligence, machine learning
 
 ## Awards and Achievements
 * **VC’s Honor List:**  
-  Awarded by the University of Asia Pacific for outstanding academic performance in 4th year (2nd and 1st semesters), 3rd year (2nd and 1st semesters), and 2nd year (2nd semester).
+  Awarded by the University of Asia Pacific for outstanding academic performance in 4th year (2nd and 1st semesters), 3rd year (2nd and 1st semesters).
 
 * **Dean’s Honor List:**  
-  Awarded by the University of Asia Pacific for outstanding academic performance in 2nd year (1st semester).
+  Awarded by the University of Asia Pacific for outstanding academic performance in 2nd year (1st semester and 2nd semester).
 
 ## References
 * **Tanmoy Sarkar Pias**, Doctoral Candidate, Computer Science, Virginia Tech, USA  
-  tanmoysarkar@vt.edu, +1 (540) 449-2137  
+  tanmoysarkar@vt.edu  
 
 * **Md. Akhtaruzzaman Adnan**, Assistant Professor, Dept. of CSE, University of Asia Pacific, Bangladesh  
-  adnan.cse@uap-bd.edu, +880 1711281379
+  adnan.cse@uap-bd.edu
 
 * **David Eisenberg**, Assistant Professor, Information Management and Business Analytics, Feliciano School of Business, Montclair State University 
   eisenbergd@montclair.edu

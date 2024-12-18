@@ -10,6 +10,7 @@ citation: 'Ohiuzzaman, M., Sanjana, M., Fahad, F., Runa, M., Rothy, Z. T., Pias,
 ---
 
 ### Contribution
-I supervised this work, which involved guiding the research direction, fine-tuning model architectures, and ensuring quality results. The collaborative effort highlights the potential of deep learning-based approaches for real-world clinical image segmentation tasks.
+I supervised this work, which involved guiding the research direction, fine-tuning model architectures, and ensuring quality results. The collaborative effort highlights the potential of deep learning-based approaches for real-world clinical image segmentation tasks. This paper has been **accepted for presentation** at the **27th IEEE International Conference on Computer and Information Technology (ICCIT 2024)**.
+
 
 

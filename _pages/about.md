@@ -49,7 +49,8 @@ Explore my work on [GitHub](https://github.com/rummanprodhan) or [Kaggle](https:
 - **IELTS Academic (2024)** — Overall Band: **8.0** (L: 8.5, R: 8.0, W: 7.0, S: 7.5)
 
 ### Future Aspirations
-I aspire to pursue a **Ph.D.** in **AI and Federated Learning**, with the goal of advancing privacy-preserving and adaptive AI systems for healthcare and human behavior analysis. My long-term vision is to establish a collaborative research lab bridging theoretical AI and societal impact.
+### Future Aspirations
+I aspire to build a long-term career in **academia and research**, focusing on advancing the fields of **artificial intelligence**, **deep learning**, and **federated learning**. My goal is to pursue a **Ph.D.** and contribute to high-impact research that bridges theory and application, particularly in healthcare and cognitive computing. In the future, I aim to establish a **research lab** that fosters interdisciplinary collaboration, mentorship, and innovation—creating an environment where ideas evolve into technologies that benefit society.
 
 Let’s connect! You can reach me at [rumman153@gmail.com](mailto:rumman153@gmail.com) or explore my [LinkedIn](https://www.linkedin.com/in/rumman-ahmed-prodhan-5a584528b/).
 

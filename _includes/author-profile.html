@@ -34,6 +34,7 @@
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ author.uri_label | default: "Website" }}</a></li>
       {% endif %}
       {% if author.email %}
+        {% if author.email_academic %}<li><a href="mailto:{{ author.email_academic }}"><i class="fas fa-fw fa-university icon-pad-right" aria-hidden="true"></i>Academic Email</a></li>{% endif %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
 

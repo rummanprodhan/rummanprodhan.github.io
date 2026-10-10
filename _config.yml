@@ -30,7 +30,8 @@ author:
   employer         : "Northern University Bangladesh"
   uri_label        : "NUB Faculty Profile"
   uri              : https://nub.ac.bd/pims/faculty-member/s6c8altx/rumman-ahmed-prodhan
-  email            : "rumman153@gmail.com" 
+  email            : "rumman153@gmail.com"
+  email_academic   : "rumman.prodhan@nub.ac.bd" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

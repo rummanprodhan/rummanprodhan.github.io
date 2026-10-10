@@ -1,13 +1,26 @@
 ---
-title: "Evaluating the Effectiveness of Classification Algorithms for EEG Sentiment Analysis"
+title: Evaluating the Effectiveness of Classification Algorithms for EEG Sentiment Analysis
 collection: publications
 category: conferences
 permalink: /publication/2023-01-01-evaluating-the-effectiveness-of-classification-algorithms-for-eeg
-excerpt: 'This paper evaluates the effectiveness of various machine learning algorithms and deep learning models for classifying sentiment from EEG signals.'
+excerpt: This paper evaluates the effectiveness of various machine learning algorithms and deep learning models for classifying sentiment from EEG signals.
 date: 2023-01-01
-paperurl: 'https://doi.org/10.1007/978-981-19-5443-6_17'
-venue: 'Conference: Sentiment Analysis and Deep Learning, ICSADL 2022'
+venue_short: 'ICSADL 2022, Springer'
+venue: International Conference on Sentiment Analysis and Deep Learning (ICSADL 2022), Springer
+paperurl: https://doi.org/10.1007/978-981-19-5443-6_17
+preprinturl: https://www.researchgate.net/publication/366779769_Evaluating_the_Effectiveness_of_Classification_Algorithms_for_EEG_Sentiment_Analysis
+codeurl: https://github.com/rummanprodhan/Evaluating-the-Effectiveness-of-Classification-Algorithms-for-EEG
 citation: 'Akter, S., Prodhan, R. A., Mujib, M. B., Adnan, M. A., & Pias, T. S. (2023). Evaluating the Effectiveness of Classification Algorithms for EEG Sentiment Analysis. In *Sentiment Analysis and Deep Learning: Proceedings of ICSADL 2022* (pp. 195-212). Singapore: Springer Nature Singapore.'
+bibtex: |
+  @inproceedings{akter2023evaluating,
+    title     = {Evaluating the Effectiveness of Classification Algorithms for EEG Sentiment Analysis},
+    author    = {Akter, Sumya and Prodhan, Rumman Ahmed and Mujib, Muhammad Bin and Adnan, Md. Akhtaruzzaman and Pias, Tanmoy Sarkar},
+    booktitle = {Sentiment Analysis and Deep Learning: Proceedings of ICSADL 2022},
+    pages     = {195--212},
+    year      = {2023},
+    publisher = {Springer Nature Singapore},
+    doi       = {10.1007/978-981-19-5443-6_17}
+  }
 ---
 
 Abstract: Electroencephalogram (EEG) signals from the brain provide additional information about emotional states that we may be unable to convey verbally. Machine learning algorithms can effectively predict the emotion from brain waves. So, we designed research to evaluate the effectiveness of multiple machine learning techniques—Naive Bayes, Logistic Regression, XGBoost, SVM, Decision Tree, Random Forest, KNN, and deep learning models—CNN, LSTM, and Bi-LSTM for classifying sentiment from brain signals. In our experiment, the DEAP dataset is used as a collection of brain signals representing different human sentiments. The Fast Fourier transformation (FFT), which shifts the data to the frequency domain, is used to extract features from the time series EEG data. Among all the algorithms, CNN, KNN, and Random Forest achieved the highest accuracy of 96.64%, 95.8%, and 95.28%, respectively, on the binary classification of valence. The results demonstrate that it is possible to attain accuracy comparable to or even outperform some of the deep learning models by combining appropriate feature extraction techniques (in this case, FFT) with machine learning algorithms.
@@ -22,10 +35,3 @@ Abstract: Electroencephalogram (EEG) signals from the brain provide additional i
    Email: tanmoysarkar@vt.edu  
 
 *Corresponding Author
-
-## Links
-
-[Read Paper](https://link.springer.com/chapter/10.1007/978-981-19-5443-6_17){: .btn .btn-primary }  
-[Download Preprint](https://www.researchgate.net/publication/366779769_Evaluating_the_Effectiveness_of_Classification_Algorithms_for_EEG_Sentiment_Analysis){: .btn .btn-secondary }  
-[View Code on GitHub](https://github.com/rummanprodhan/Evaluating-the-Effectiveness-of-Classification-Algorithms-for-EEG){: .btn .btn-success }
-

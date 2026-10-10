@@ -39,3 +39,24 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+/* ===== Custom additions ===== */
+.pub-links{display:flex;flex-wrap:wrap;gap:.4em;margin:.4em 0 .8em;align-items:flex-start}
+.pub-badge{display:inline-block;font-size:.72em;font-weight:600;line-height:1;padding:.45em .75em;border:1px solid #c9d3e0;border-radius:4px;color:#2f4f75 !important;background:#f5f8fc;text-decoration:none !important;cursor:pointer;white-space:nowrap}
+.pub-badge:hover{background:#e6eef8;border-color:#9fb4cf}
+.pub-badge i{margin-right:.25em}
+.pub-badge--pdf{color:#a12a2a !important;border-color:#e3c3c3;background:#fcf5f5}
+.pub-badge--code{color:#24292e !important;border-color:#cfd3d7;background:#f6f8fa}
+.pub-cite{display:inline-block}
+.pub-cite summary{list-style:none}
+.pub-cite summary::-webkit-details-marker{display:none}
+.pub-cite[open]{flex-basis:100%}
+.pub-cite pre{font-size:.68em;margin:.5em 0 0;padding:.8em;background:#f7f7f7;border:1px solid #e5e5e5;border-radius:4px;white-space:pre-wrap;word-break:break-word}
+.pub-citation{font-size:.85em;color:#555}
+
+.news-list{list-style:none;margin:0 0 1em;padding:0}
+.news-list li{display:flex;gap:.9em;padding:.35em 0;border-bottom:1px dashed #e4e4e4;margin:0}
+.news-date{flex:0 0 5.6em;font-weight:600;color:#3a5a80;font-size:.9em}
+.sel-pubs{list-style:none;margin:0 0 1em;padding:0}
+.sel-pubs li{margin:0 0 .9em;padding:0 0 .2em;line-height:1.45}
+.sel-pubs .sel-venue{font-size:.85em;color:#666}
+.sel-pubs .pub-links{margin:.3em 0 0}

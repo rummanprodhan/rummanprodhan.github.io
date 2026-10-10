@@ -68,7 +68,7 @@ Dedicated academic and researcher with expertise in **Artificial Intelligence**,
   </div>
 </div>
 <div class="cv-item">
-  <div class="cv-logo cv-logo--text" data-abbr="BT"></div>
+  <div class="cv-logo" data-abbr="BT"><img src="/images/logos/bondstein-icon.png" alt="Bondstein Technologies logo" loading="lazy" onerror="this.parentNode.classList.add('cv-logo--text');this.remove();"></div>
   <div class="cv-body">
     <p class="cv-org">Bondstein Technologies Limited</p>
     <p class="cv-meta">Dhaka, Bangladesh</p>
@@ -81,7 +81,7 @@ Dedicated academic and researcher with expertise in **Artificial Intelligence**,
   </div>
 </div>
 <div class="cv-item">
-  <div class="cv-logo cv-logo--text" data-abbr="MD"></div>
+  <div class="cv-logo" data-abbr="MD"><img src="/images/logos/marketing-doorway.png" alt="Marketing Doorway logo" loading="lazy" onerror="this.parentNode.classList.add('cv-logo--text');this.remove();"></div>
   <div class="cv-body">
     <p class="cv-org">Marketing Doorway</p>
     <p class="cv-meta">Part-time · Remote · Dhaka, Bangladesh</p>
@@ -123,7 +123,7 @@ Dedicated academic and researcher with expertise in **Artificial Intelligence**,
   </div>
 </div>
 <div class="cv-item">
-  <div class="cv-logo" data-abbr="UAP"><img src="https://www.uap-bd.edu/img/logo.png" alt="University of Asia Pacific logo" loading="lazy" onerror="this.parentNode.classList.add('cv-logo--text');this.remove();"></div>
+  <div class="cv-logo" data-abbr="UAP"><img src="/images/logos/uap.png" alt="University of Asia Pacific logo" loading="lazy" onerror="this.parentNode.classList.add('cv-logo--text');this.remove();"></div>
   <div class="cv-body">
     <p class="cv-org">University of Asia Pacific</p>
     <p class="cv-meta">Dhaka, Bangladesh · Apr 2018 – Jun 2022</p>
@@ -137,17 +137,8 @@ Dedicated academic and researcher with expertise in **Artificial Intelligence**,
 </div>
 
 ## Publications
-<ul>{% for post in site.publications reversed %}  
-    {% include archive-single-cv.html %}  
-  {% endfor %}</ul>
 
-**Selected Publications:**
-- *“M1M2: Deep Learning-Based Real-Time Emotion Recognition from Neural Activity”* — MDPI **Sensors**, 2022. [DOI](https://doi.org/10.3390/s22218467)  
-- *“Emotion Recognition from Brain Wave using Multitask Machine Learning Leveraging Residual Connections”* — **MIET 2022**, Bangladesh. [DOI](https://doi.org/10.1007/978-3-031-34622-4_10)  
-- *“Evaluating the Effectiveness of Classification Algorithms for EEG Sentiment Analysis”* — **ICSADL 2022**, Nepal. [DOI](https://doi.org/10.1007/978-981-19-5443-6_17)  
-- *“Optimal EEG Electrode Set for Emotion Recognition From Brain Signals: An Empirical Quest”* — **ABC 2022**, London. [DOI](https://doi.org/10.1201/9781003371540-5)  
-- *“Enhanced Pediatric Dental Segmentation Using a Custom SegUNet with VGG19 Backbone on Panoramic Radiographs”* — **ICCIT 2024**, Bangladesh. [DOI](https://doi.org/10.1109/ICCIT64611.2024.11021764)  
-- *“Multimodal Deep Learning for Handwritten Prescription Recognition with Explainable AI”* — **2nd IEEE Quantum-inspired Patient Informatics (Q-PAIN), 2026** (IEEE Xplore). [DOI](https://doi.org/10.1109/QPAIN69676.2026.11546070)  
+{% include selected-pubs.html %}
 
 ## Research Focus
 * EEG-based emotion recognition and cross-subject generalization  

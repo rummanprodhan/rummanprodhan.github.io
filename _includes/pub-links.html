@@ -1,0 +1,11 @@
+{%- comment -%}Publication link badges. Usage: include pub-links.html p=post{%- endcomment -%}
+{%- assign pl = include.p -%}
+{%- if pl.paperurl or pl.pdfurl or pl.preprinturl or pl.codeurl or pl.bibtex -%}
+<div class="pub-links">
+{%- if pl.pdfurl -%}<a class="pub-badge pub-badge--pdf" href="{{ pl.pdfurl }}"><i class="fas fa-file-pdf" aria-hidden="true"></i> PDF</a>{%- endif -%}
+{%- if pl.paperurl -%}<a class="pub-badge" href="{{ pl.paperurl }}"><i class="fas fa-external-link-alt" aria-hidden="true"></i> {{ pl.paperlabel | default: "DOI" }}</a>{%- endif -%}
+{%- if pl.preprinturl -%}<a class="pub-badge" href="{{ pl.preprinturl }}"><i class="fas fa-file-alt" aria-hidden="true"></i> Preprint</a>{%- endif -%}
+{%- if pl.codeurl -%}<a class="pub-badge pub-badge--code" href="{{ pl.codeurl }}"><i class="fab fa-github" aria-hidden="true"></i> Code</a>{%- endif -%}
+{%- if pl.bibtex -%}<details class="pub-cite"><summary class="pub-badge"><i class="fas fa-quote-right" aria-hidden="true"></i> Cite</summary><pre>{{ pl.bibtex | strip | escape }}</pre></details>{%- endif -%}
+</div>
+{%- endif -%}

@@ -1,13 +1,29 @@
 ---
-title: "M1M2: Deep-Learning-Based Real-Time Emotion Recognition from Neural Activity"
+title: 'M1M2: Deep-Learning-Based Real-Time Emotion Recognition from Neural Activity'
 collection: publications
 category: manuscripts
 permalink: /publication/2022-11-03-mdpi-sensor-journal-m1m2-deep-learning-based-real-time-emotion-recognition
-excerpt: 'This paper proposes two CNN models (M1 and M2) for emotion recognition from brain signals using EEG data, achieving nearly perfect accuracy.'
+excerpt: This paper proposes two CNN models (M1 and M2) for emotion recognition from brain signals using EEG data, achieving nearly perfect accuracy.
 date: 2022-11-03
-paperurl: 'https://doi.org/10.3390/s22218467'
-venue: 'Journal: MDPI Sensors'
+venue_short: 'Sensors (MDPI), 2022'
+role: 'Equal contribution'
+venue: Sensors (MDPI), Vol. 22, No. 21
+paperurl: https://doi.org/10.3390/s22218467
+pdfurl: https://www.mdpi.com/1424-8220/22/21/8467/pdf?version=1667473945
+codeurl: https://github.com/PiasTanmoy/M1M2-Deep-Learning-Based-Real-Time-Emotion-Recognition-from-Neural-Activity
 citation: 'Akter, S., Prodhan, R. A., Pias, T. S., Eisenberg, D., & Fresneda Fernandez, J. (2022). M1M2: Deep-Learning-Based Real-Time Emotion Recognition from Neural Activity. *Sensors*, 22(21), 8467.'
+bibtex: |
+  @article{akter2022m1m2,
+    title     = {M1M2: Deep-Learning-Based Real-Time Emotion Recognition from Neural Activity},
+    author    = {Akter, Sumya and Prodhan, Rumman Ahmed and Pias, Tanmoy Sarkar and Eisenberg, David and Fresneda Fernandez, Jorge},
+    journal   = {Sensors},
+    volume    = {22},
+    number    = {21},
+    pages     = {8467},
+    year      = {2022},
+    publisher = {MDPI},
+    doi       = {10.3390/s22218467}
+  }
 ---
 
 Abstract: Emotion recognition, or the ability of computers to interpret people’s emotional states, is a very active research area with vast applications to improve people’s lives. However, most image-based emotion recognition techniques are flawed, as humans can intentionally hide their emotions by changing facial expressions. Consequently, brain signals are being used to detect human emotions with improved accuracy, but most proposed systems demonstrate poor performance as EEG signals are difficult to classify using standard machine learning and deep learning techniques. This paper proposes two convolutional neural network (CNN) models (M1: heavily parameterized CNN model and M2: lightly parameterized CNN model) coupled with elegant feature extraction methods for effective recognition. In this study, the most popular EEG benchmark dataset, the DEAP, is utilized with two of its labels, valence, and arousal, for binary classification. We use Fast Fourier Transformation to extract the frequency domain features, convolutional layers for deep features, and complementary features to represent the dataset. The M1 and M2 CNN models achieve nearly perfect accuracy of 99.89% and 99.22%, respectively, which outperform every previous state-of-the-art model. We empirically demonstrate that the M2 model requires only 2 seconds of EEG signal for 99.22% accuracy, and it can achieve over 96% accuracy with only 125 milliseconds of EEG data for valence classification. Moreover, the proposed M2 model achieves 96.8% accuracy on valence using only 10% of the training dataset, demonstrating our proposed system’s effectiveness. Documented implementation codes for every experiment are published for reproducibility.
@@ -22,10 +38,3 @@ Abstract: Emotion recognition, or the ability of computers to interpret people�
 
 *Authors to whom correspondence should be addressed.  
 †These authors contributed equally to this work.
-
-## Links
-
-[Read Paper](https://www.mdpi.com/1424-8220/22/21/8467){: .btn .btn-primary }  
-[Download PDF](https://www.mdpi.com/1424-8220/22/21/8467/pdf?version=1667473945){: .btn .btn-secondary }  
-[View Code on GitHub](https://github.com/PiasTanmoy/M1M2-Deep-Learning-Based-Real-Time-Emotion-Recognition-from-Neural-Activity){: .btn .btn-success }
-

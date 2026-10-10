@@ -4,7 +4,17 @@ title: "Welcome to My Academic Homepage"
 author_profile: true
 ---
 
-Hello, I’m **Rumman Ahmed Prodhan**, a researcher and senior lecturer passionate about **Artificial Intelligence (AI)** and **Machine Learning (ML)**. My interdisciplinary work spans **computer vision**, **signal processing**, and **deep learning**, focusing on applications that merge research innovation with real-world impact.
+Hello, I’m **Rumman Ahmed Prodhan**, a researcher and Senior Lecturer passionate about **Artificial Intelligence (AI)** and **Machine Learning (ML)**. My interdisciplinary work spans **computer vision**, **signal processing**, and **deep learning**, focusing on applications that merge research innovation with real-world impact.
+
+### News
+<ul class="news-list">
+  <li><span class="news-date">Oct 2026</span><span>Promoted to <strong>Senior Lecturer</strong>, Dept. of CSE, Northern University Bangladesh.</span></li>
+  <li><span class="news-date">Jun 2026</span><span>Our paper on <a href="/publication/2026-multimodal-handwritten-prescription-recognition-xai">multimodal handwritten prescription recognition</a> is now on IEEE Xplore.</span></li>
+  <li><span class="news-date">Apr 2026</span><span>Paper presented at <strong>IEEE QPAIN 2026</strong>, Chittagong, Bangladesh.</span></li>
+  <li><span class="news-date">2026</span><span>Completed M.Sc. coursework at <strong>BRAC University</strong> (CGPA 3.95/4.00); thesis in progress.</span></li>
+  <li><span class="news-date">Dec 2024</span><span>Supervised paper on <a href="/publication/2024-12-22-enhanced-pediatric-dental-segmentation">pediatric dental segmentation</a> presented at <strong>IEEE ICCIT 2024</strong>.</span></li>
+  <li><span class="news-date">Apr 2024</span><span>Book chapter on <a href="/publication/2024-04-29-optimal-eeg-electrode-set-for-emotion-recognition-from-brain-signals">optimal EEG electrode selection</a> published by CRC Press.</span></li>
+</ul>
 
 ### Academic and Professional Highlights
 I am currently a **Senior Lecturer** in the **Department of Computer Science & Engineering** at **Northern University Bangladesh**, where I teach courses such as Database Management Systems, Artificial Intelligence and Expert Systems, Operating Systems, Computer Architecture, and Software Development. I actively supervise undergraduate theses and projects centered on machine learning and deep learning.  
@@ -18,16 +28,25 @@ Previously, I worked at the **Neuro-Analytics Lab**, **New Jersey Institute of T
   CGPA: 3.79/4.00 (Last 2 Years: 3.96; Final Semester: 4.00)
 
 ### Research and Publications
-I have authored and co-authored papers published in **MDPI Sensors**, **IEEE**, **Springer**, and **Taylor & Francis**. Selected works include:  
+I have authored and co-authored papers published by **MDPI Sensors**, **IEEE**, **Springer**, and **Taylor & Francis (CRC Press)**. Click a title for the abstract, PDF, code and citation.
 
-- [*“M1M2: Deep Learning-Based Real-Time Emotion Recognition from Neural Activity”*](https://doi.org/10.3390/s22218467) — **MDPI Sensors**, 2022 (Equal Contribution)  
-- [*“Emotion Recognition from Brain Wave using Multitask Machine Learning Leveraging Residual Connections”*](https://doi.org/10.1007/978-3-031-34622-4_10) — **MIET 2022**  
-- [*“Evaluating the Effectiveness of Classification Algorithms for EEG Sentiment Analysis”*](https://doi.org/10.1007/978-981-19-5443-6_17) — **ICSADL 2022 (Nepal)**  
-- [*“Optimal EEG Electrode Set for Emotion Recognition From Brain Signals: An Empirical Quest”*](https://doi.org/10.1201/9781003371540-5) — **ABC 2022 (London)**, Taylor & Francis  
-- [*“Enhanced Pediatric Dental Segmentation Using a Custom SegUNet with VGG19 Backbone on Panoramic Radiographs”*](https://doi.org/10.1109/ICCIT64611.2024.11021764) — **ICCIT 2024** (Supervisor)  
-- [*“Multimodal Deep Learning for Handwritten Prescription Recognition with Explainable AI”*](https://doi.org/10.1109/QPAIN69676.2026.11546070) — **2nd IEEE Q-PAIN 2026** (Supervisor)
+{% include selected-pubs.html %}
 
-See the [Publications](/publications/) page or all papers on [Google Scholar](https://scholar.google.com/citations?user=gl48O8gAAAAJ&hl=en).
+See the [Publications](/publications/) page or my [Google Scholar](https://scholar.google.com/citations?user=gl48O8gAAAAJ&hl=en) profile.
+
+### Research Supervision
+I supervise undergraduate thesis groups at Northern University Bangladesh, aiming each project at a publishable contribution.
+
+**Published with my students**
+- *Multimodal handwritten prescription recognition with explainable AI* — [IEEE QPAIN 2026](/publication/2026-multimodal-handwritten-prescription-recognition-xai)
+- *Pediatric dental segmentation on panoramic radiographs* — [IEEE ICCIT 2024](/publication/2024-12-22-enhanced-pediatric-dental-segmentation)
+
+**Ongoing thesis projects (2026)**
+- Robust, privacy-preserving **federated learning** for brain-tumour MRI, with defences against malicious clients
+- **Federated learning** for object detection in **satellite imagery**
+- **Tiny-object detection** in UAV / drone imagery (VisDrone)
+- **Image forgery detection and localisation**
+- **Fairness auditing** of skin-cancer classifiers (HAM10000, BCN20000)
 
 ### Research Interests
 - **Machine Learning & Deep Learning** — Multimodal and multitask architectures  
@@ -48,7 +67,6 @@ Explore my work on [GitHub](https://github.com/rummanprodhan) or [Kaggle](https:
 - **Vice Chancellor’s & Dean’s Honor Lists** — University of Asia Pacific  
 - **IELTS Academic (2024)** — Overall Band: **8.0** (L: 8.5, R: 8.0, W: 7.0, S: 7.5)
 
-### Future Aspirations
 ### Future Aspirations
 I aspire to build a long-term career in **academia and research**, focusing on advancing the fields of **artificial intelligence**, **deep learning**, and **federated learning**. My goal is to pursue a **Ph.D.** and contribute to high-impact research that bridges theory and application. In the future, I aim to establish a **research lab** that fosters interdisciplinary collaboration, mentorship, and innovation—creating an environment where ideas evolve into technologies that benefit society.
 

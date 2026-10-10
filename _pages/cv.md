@@ -55,7 +55,7 @@ Dedicated academic and researcher with expertise in **Artificial Intelligence**,
   </div>
 </div>
 <div class="cv-item">
-  <div class="cv-logo" data-abbr="NJIT"><img src="https://www.njit.edu/themes/custom/njit/img/logo.svg" alt="Neuro-Analytics Lab, New Jersey Institute of Technology (NJIT) logo" loading="lazy" onerror="this.parentNode.classList.add('cv-logo--text');this.remove();"></div>
+  <div class="cv-logo" data-abbr="NJIT"><img src="/images/logos/njit.png" alt="Neuro-Analytics Lab, New Jersey Institute of Technology (NJIT) logo" loading="lazy" onerror="this.parentNode.classList.add('cv-logo--text');this.remove();"></div>
   <div class="cv-body">
     <p class="cv-org">Neuro-Analytics Lab, New Jersey Institute of Technology (NJIT)</p>
     <p class="cv-meta">Remote · USA</p>
@@ -84,7 +84,7 @@ Dedicated academic and researcher with expertise in **Artificial Intelligence**,
 ## Education
 
 <div class="cv-item">
-  <div class="cv-logo" data-abbr="BU"><img src="https://www.bracu.ac.bd/sites/all/themes/sloth/images/f-logo.svg" alt="BRAC University logo" loading="lazy" onerror="this.parentNode.classList.add('cv-logo--text');this.remove();"></div>
+  <div class="cv-logo" data-abbr="BU"><img src="/images/logos/bracu.png" alt="BRAC University logo" loading="lazy" onerror="this.parentNode.classList.add('cv-logo--text');this.remove();"></div>
   <div class="cv-body">
     <p class="cv-org">BRAC University</p>
     <p class="cv-meta">Dhaka, Bangladesh · 2025 – Present · Coursework Completed, Thesis Ongoing</p>

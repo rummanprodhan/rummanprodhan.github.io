@@ -38,7 +38,7 @@ Dedicated academic and researcher with expertise in **Artificial Intelligence**,
 ## Work Experience
 
 <div class="cv-item">
-  <div class="cv-logo" data-abbr="NUB"><img src="https://nub.ac.bd/assets/images/logo_nub.png" alt="Northern University Bangladesh logo" loading="lazy" onerror="this.parentNode.classList.add('cv-logo--text');this.remove();"></div>
+  <div class="cv-logo" data-abbr="NUB"><img src="/images/logos/nub.png" alt="Northern University Bangladesh logo" loading="lazy" onerror="this.parentNode.classList.add('cv-logo--text');this.remove();"></div>
   <div class="cv-body">
     <p class="cv-org">Northern University Bangladesh</p>
     <p class="cv-meta">Full-time · Sep 2022 – Present · Dhaka, Bangladesh</p>

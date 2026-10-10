@@ -168,4 +168,4 @@ Dedicated academic and researcher with expertise in **Artificial Intelligence**,
 * **Conveyor Belt Fault Detection for BAT (Raspberry Pi)**  
 * **Bangladeshi Travel Blog using Django** — [Live Demo](http://rumman.pythonanywhere.com/)  
 * **Air Tickets Management System (SQL)** — [GitHub](https://github.com/rumman153/Database/tree/master/Airport%20Ticket%20Management)  
-* **Employee Management (Java)** — [GitHub](https://github.com/rumman153/Java/tree/)*
+* **Employee Management (Java)** — [GitHub](https://github.com/rumman153/Java)

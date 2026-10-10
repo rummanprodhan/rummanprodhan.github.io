@@ -80,32 +80,6 @@ Dedicated academic and researcher with expertise in **Artificial Intelligence**,
     </ul>
   </div>
 </div>
-<div class="cv-item">
-  <div class="cv-logo" data-abbr="MD"><img src="/images/logos/marketing-doorway.png" alt="Marketing Doorway logo" loading="lazy" onerror="this.parentNode.classList.add('cv-logo--text');this.remove();"></div>
-  <div class="cv-body">
-    <p class="cv-org">Marketing Doorway</p>
-    <p class="cv-meta">Part-time · Remote · Dhaka, Bangladesh</p>
-    <ul class="cv-roles">
-      <li>
-        <p class="cv-role">SEO Team Lead</p>
-        <p class="cv-date">Jul 2017 – Sep 2022</p><p class="cv-desc">Led a team of SEO professionals to improve client visibility and optimize traffic analytics.</p>
-      </li>
-    </ul>
-  </div>
-</div>
-<div class="cv-item">
-  <div class="cv-logo cv-logo--text" data-abbr="LT"></div>
-  <div class="cv-body">
-    <p class="cv-org">Lead Technology</p>
-    <p class="cv-meta">Part-time · Remote · Dhaka, Bangladesh</p>
-    <ul class="cv-roles">
-      <li>
-        <p class="cv-role">SEO Specialist</p>
-        <p class="cv-date">Jul 2016 – Jul 2017</p>
-      </li>
-    </ul>
-  </div>
-</div>
 
 ## Education
 

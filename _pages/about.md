@@ -20,14 +20,14 @@ Previously, I worked at the **Neuro-Analytics Lab**, **New Jersey Institute of T
 ### Research and Publications
 I have authored and co-authored papers published in **MDPI Sensors**, **IEEE**, **Springer**, and **Taylor & Francis**. Selected works include:  
 
-- *“M1M2: Deep Learning-Based Real-Time Emotion Recognition from Neural Activity”* — **MDPI Sensors**, 2022 (Equal Contribution)  
-- *“Emotion Recognition from Brain Wave using Multitask Machine Learning Leveraging Residual Connections”* — **MIET 2022**  
-- *“Evaluating the Effectiveness of Classification Algorithms for EEG Sentiment Analysis”* — **ICSADL 2022 (Nepal)**  
-- *“Optimal EEG Electrode Set for Emotion Recognition From Brain Signals: An Empirical Quest”* — **ABC 2022 (London)**  
-- *“Enhanced Pediatric Dental Segmentation Using a Custom SegUNet with VGG19 Backbone on Panoramic Radiographs”* — **ICCIT 2024** (Supervisor)  
-- *“Multimodal Deep Learning for Handwritten Prescription Recognition with Explainable AI”* — **2nd IEEE Q-PAIN 2026** (IEEE Xplore) [DOI](https://doi.org/10.1109/QPAIN69676.2026.11546070) (Supervisor)
+- [*“M1M2: Deep Learning-Based Real-Time Emotion Recognition from Neural Activity”*](https://doi.org/10.3390/s22218467) — **MDPI Sensors**, 2022 (Equal Contribution)  
+- [*“Emotion Recognition from Brain Wave using Multitask Machine Learning Leveraging Residual Connections”*](https://doi.org/10.1007/978-3-031-34622-4_10) — **MIET 2022**  
+- [*“Evaluating the Effectiveness of Classification Algorithms for EEG Sentiment Analysis”*](https://doi.org/10.1007/978-981-19-5443-6_17) — **ICSADL 2022 (Nepal)**  
+- [*“Optimal EEG Electrode Set for Emotion Recognition From Brain Signals: An Empirical Quest”*](https://doi.org/10.1201/9781003371540-5) — **ABC 2022 (London)**, Taylor & Francis  
+- [*“Enhanced Pediatric Dental Segmentation Using a Custom SegUNet with VGG19 Backbone on Panoramic Radiographs”*](https://doi.org/10.1109/ICCIT64611.2024.11021764) — **ICCIT 2024** (Supervisor)  
+- [*“Multimodal Deep Learning for Handwritten Prescription Recognition with Explainable AI”*](https://doi.org/10.1109/QPAIN69676.2026.11546070) — **2nd IEEE Q-PAIN 2026** (Supervisor)
 
-See all publications on [Google Scholar](https://scholar.google.com/citations?user=gl48O8gAAAAJ&hl=en).
+See the [Publications](/publications/) page or all papers on [Google Scholar](https://scholar.google.com/citations?user=gl48O8gAAAAJ&hl=en).
 
 ### Research Interests
 - **Machine Learning & Deep Learning** — Multimodal and multitask architectures  

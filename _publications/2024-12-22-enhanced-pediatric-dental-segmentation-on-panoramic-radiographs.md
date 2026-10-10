@@ -5,6 +5,7 @@ category: conferences
 permalink: /publication/2024-12-22-enhanced-pediatric-dental-segmentation
 excerpt: 'This paper introduces a custom SegUNet architecture with a VGG19 backbone for improved segmentation of pediatric dental panoramic radiographs.'
 date: 2024-12-22
+paperurl: 'https://doi.org/10.1109/ICCIT64611.2024.11021764'
 venue: '27th IEEE International Conference on Computer and Information Technology (ICCIT 2024)'
 citation: 'Ovi, Md Ohiduzzaman, Maliha Sanjana, Fahad Fahad, Mahjabin Runa, Zarin Tasnim Rothy, Tanmoy Sarkar Pias, A. M. Islam, and Rumman Ahmed Prodhan. "Enhanced Pediatric Dental Segmentation Using a Custom SegUNet with VGG19 Backbone on Panoramic Radiographs." arXiv preprint arXiv:2503.06321 (2025).'
 ---
@@ -20,5 +21,6 @@ Pediatric dental segmentation is critical in dental diagnostics, presenting uniq
 
 ## Links
 
-[Read Preprint](https://www.arxiv.org/abs/2503.06321){: .btn .btn-primary }
+[Read Paper (IEEE Xplore)](https://doi.org/10.1109/ICCIT64611.2024.11021764){: .btn .btn-primary }
+[Read Preprint](https://www.arxiv.org/abs/2503.06321){: .btn .btn-secondary }
 [View Code on GitHub](https://github.com/rummanprodhan/Enhancing-Pediatric-Dental-Segmentation-with-Custom-SegUNet-and-VGG19){: .btn .btn-success }

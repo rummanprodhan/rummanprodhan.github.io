@@ -5,6 +5,7 @@ category: conferences
 permalink: /publication/2024-04-29-optimal-eeg-electrode-set-for-emotion-recognition-from-brain-signals
 excerpt: 'This study empirically analyzes the contribution of different brain regions to emotion recognition using an optimal EEG electrode set.'
 date: 2024-04-29
+paperurl: 'https://doi.org/10.1201/9781003371540-5'
 venue: 'Conference: 4th International Conference on Activity and Behavior Computing'
 citation: 'Prodhan, R. A., Akter, S., Adnan, M. A., & Pias, T. S. (2024). Optimal EEG Electrode Set for Emotion Recognition from Brain Signals: An Empirical Quest. In *4th International Conference on Activity and Behavior Computing* (pp. 67-88), October 27-29, 2022, London, United Kingdom. CRC Press.'
 ---

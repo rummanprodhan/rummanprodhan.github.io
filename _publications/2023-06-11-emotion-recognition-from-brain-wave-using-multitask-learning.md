@@ -5,9 +5,9 @@ category: conferences
 permalink: /publication/2023-06-11-emotion-recognition-from-brain-wave-using-multitask-learning
 excerpt: 'This paper presents a multitask learning approach for emotion recognition from brain waves leveraging residual connections.'
 date: 2023-06-11
+paperurl: 'https://doi.org/10.1007/978-3-031-34622-4_10'
 venue: 'Conference: International Conference on Machine Intelligence and Emerging Technologies'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-#paperurl: 'https://doi.org/10.1007/978-3-031-34622-4_10'
 citation: 'Prodhan, R. A., Akter, S., Mujib, M. B., Adnan, M. A., & Pias, T. S. (2023, June). Emotion recognition from brain wave using multitask machine learning leveraging residual connections. In *International Conference on Machine Intelligence and Emerging Technologies* (pp. 121-136). Cham: Springer Nature Switzerland.'
 ---
 

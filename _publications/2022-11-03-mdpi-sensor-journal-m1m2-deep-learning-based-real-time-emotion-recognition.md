@@ -5,8 +5,8 @@ category: manuscripts
 permalink: /publication/2022-11-03-mdpi-sensor-journal-m1m2-deep-learning-based-real-time-emotion-recognition
 excerpt: 'This paper proposes two CNN models (M1 and M2) for emotion recognition from brain signals using EEG data, achieving nearly perfect accuracy.'
 date: 2022-11-03
+paperurl: 'https://doi.org/10.3390/s22218467'
 venue: 'Journal: MDPI Sensors'
-#paperurl: 'https://www.mdpi.com/1424-8220/22/21/8467'
 citation: 'Akter, S., Prodhan, R. A., Pias, T. S., Eisenberg, D., & Fresneda Fernandez, J. (2022). M1M2: Deep-Learning-Based Real-Time Emotion Recognition from Neural Activity. *Sensors*, 22(21), 8467.'
 ---
 

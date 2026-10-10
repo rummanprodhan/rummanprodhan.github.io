@@ -87,7 +87,7 @@ Dedicated academic and researcher with expertise in **Artificial Intelligence**,
   <div class="cv-logo" data-abbr="BU"><img src="https://www.bracu.ac.bd/sites/all/themes/sloth/images/f-logo.svg" alt="BRAC University logo" loading="lazy" onerror="this.parentNode.classList.add('cv-logo--text');this.remove();"></div>
   <div class="cv-body">
     <p class="cv-org">BRAC University</p>
-    <p class="cv-meta">Dhaka, Bangladesh · Coursework Completed, Thesis Ongoing</p>
+    <p class="cv-meta">Dhaka, Bangladesh · 2025 – Present · Coursework Completed, Thesis Ongoing</p>
     <ul class="cv-roles">
       <li>
         <p class="cv-role">M.Sc. in Computer Science &amp; Engineering</p>
@@ -124,13 +124,11 @@ Dedicated academic and researcher with expertise in **Artificial Intelligence**,
 * **Unsupervised Acoustic Disentanglement via Hybrid Beta-VAE** — Fused convolutional spectral audio features with semantic embeddings to resolve cross-cultural genre overlaps; perfect separation (ARI = 1.0) on HBLM-100.
 * **Scalable Hybrid Parallelism for Federated Learning** — MPI (inter-node) + CUDA (intra-node) architecture tackling the straggler problem; 9.26× speedup over serial execution on SipakMed.
 * **Federated Domain Generalization (FedDG) for Cancer Diagnosis** — FedBN within the Flower framework to handle staining-protocol domain shift; 15% better cross-site robustness than FedAvg.
-* **Zero-Shot Cross-Dataset EEG Emotion Recognition** — CORAL regularization and MixStyle to transfer models between DEAP and DREAMER without retraining.
+* **Zero-Shot Cross-Dataset EEG Emotion Recognition** — CORAL regularization and MixStyle to transfer models between DEAP and DREAMER without retraining. [Google Colab](https://colab.research.google.com/drive/1v0wxB2InMdmaL5hQtTIutek7pJDzEqAM?usp=sharing)
 
 ## Projects
 * **Cross-Device Skin Disease Classification using Federated Learning** — [Kaggle](https://www.kaggle.com/code/rummanahmedprodhan/cross-domain-federated-learning-skin-disease-poc)  
-* **Zero-Shot Cross-Dataset EEG Emotion Recognition** — [Google Colab](https://colab.research.google.com/drive/1v0wxB2InMdmaL5hQtTIutek7pJDzEqAM?usp=sharing)  
 * **Real-Time Emotion and Attendance System (Raspberry Pi)**  
-* **Conveyor Belt Fault Detection for BAT (Raspberry Pi)**  
-* **Bangladeshi Travel Blog using Django** — [Live Demo](http://rumman.pythonanywhere.com/)  
+* **Bangladeshi Travel Blog using Django** — [Live Demo](https://rumman.pythonanywhere.com/)  
 * **Air Tickets Management System (SQL)** — [GitHub](https://github.com/rumman153/Database/tree/master/Airport%20Ticket%20Management)  
 * **Employee Management (Java)** — [GitHub](https://github.com/rumman153/Java)

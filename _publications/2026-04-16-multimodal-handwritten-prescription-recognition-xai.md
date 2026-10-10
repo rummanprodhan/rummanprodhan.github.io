@@ -3,7 +3,7 @@ title: 'Multimodal Deep Learning for Handwritten Prescription Recognition with E
 collection: publications
 category: conferences
 permalink: /publication/2026-multimodal-handwritten-prescription-recognition-xai
-excerpt: 'A multimodal framework that fuses CNN visual features with pharmaceutical metadata to recognise handwritten drug names, with SHAP-based explanations. Best model: 94.49% accuracy.'
+excerpt: 'A multimodal framework that fuses CNN visual features with pharmaceutical metadata to recognize handwritten drug names, with SHAP-based explanations. Best model: 94.49% accuracy.'
 date: 2026-04-16
 venue_short: 'IEEE QPAIN 2026, Chittagong'
 role: 'Supervisor'

@@ -1,7 +1,7 @@
 ---
 title: 'Optimal EEG Electrode Set for Emotion Recognition from Brain Signals: An Empirical Quest'
 collection: publications
-category: conferences
+category: books
 permalink: /publication/2024-04-29-optimal-eeg-electrode-set-for-emotion-recognition-from-brain-signals
 excerpt: This study empirically analyzes the contribution of different brain regions to emotion recognition using an optimal EEG electrode set.
 date: 2024-04-29

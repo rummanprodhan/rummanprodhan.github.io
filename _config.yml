@@ -28,6 +28,7 @@ author:
   location         : "Dhaka, Bangladesh"
   designation      : #"Senior Lecturer, Department of Computer Science & Engineering"
   employer         : "Northern University Bangladesh"
+  uri_label        : "NUB Faculty Profile"
   uri              : https://nub.ac.bd/pims/faculty-member/s6c8altx/rumman-ahmed-prodhan
   email            : "rumman153@gmail.com" 
 
@@ -77,7 +78,7 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
+    title: 'Book Chapters'
   manuscripts:
     title: 'Journal Articles'
   conferences:

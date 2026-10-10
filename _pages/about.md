@@ -28,7 +28,7 @@ Previously, I worked at the **Neuro-Analytics Lab**, **New Jersey Institute of T
   CGPA: 3.79/4.00 (Last 2 Years: 3.96; Final Semester: 4.00)
 
 ### Research and Publications
-I have authored and co-authored papers published by **MDPI Sensors**, **IEEE**, **Springer**, and **Taylor & Francis (CRC Press)**. Click a title for the abstract, PDF, code and citation.
+I have authored and co-authored papers published by **MDPI Sensors**, **IEEE**, **Springer**, and **Taylor & Francis (CRC Press)**. Click a title for the abstract, links and citation.
 
 {% include selected-pubs.html %}
 
@@ -42,10 +42,10 @@ I supervise undergraduate thesis groups at Northern University Bangladesh, aimin
 - *Pediatric dental segmentation on panoramic radiographs* — [IEEE ICCIT 2024](/publication/2024-12-22-enhanced-pediatric-dental-segmentation)
 
 **Ongoing thesis projects (2026)**
-- Robust, privacy-preserving **federated learning** for brain-tumour MRI, with defences against malicious clients
+- Robust, privacy-preserving **federated learning** for brain-tumor MRI, with defences against malicious clients
 - **Federated learning** for object detection in **satellite imagery**
 - **Tiny-object detection** in UAV / drone imagery (VisDrone)
-- **Image forgery detection and localisation**
+- **Image forgery detection and localization**
 - **Fairness auditing** of skin-cancer classifiers (HAM10000, BCN20000)
 
 ### Research Interests

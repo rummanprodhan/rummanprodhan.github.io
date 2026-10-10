@@ -35,7 +35,7 @@ I have authored and co-authored papers published by **MDPI Sensors**, **IEEE**, 
 See the [Publications](/publications/) page or my [Google Scholar](https://scholar.google.com/citations?user=gl48O8gAAAAJ&hl=en) profile.
 
 ### Research Supervision
-I supervise undergraduate thesis groups at Northern University Bangladesh, aiming each project at a publishable contribution.
+I supervise undergraduate thesis groups at Northern University Bangladesh, aiming each project at a publishable contribution. Interested NUB students can apply on the [Prospective Students](/prospective-students/) page.
 
 **Published with my students**
 - *Multimodal handwritten prescription recognition with explainable AI* — [IEEE QPAIN 2026](/publication/2026-multimodal-handwritten-prescription-recognition-xai)

@@ -17,9 +17,39 @@ redirect_from:
 Dedicated academic and researcher with expertise in **Artificial Intelligence**, **Machine Learning**, and **Signal Processing**, currently serving as a **Senior Lecturer** at Northern University Bangladesh. Passionate about advancing AI for healthcare and human behavior analysis through ethical, explainable, and collaborative research. Seeking to pursue a **Ph.D.** in Computer Science to contribute to high-impact interdisciplinary research in AI and federated systems.
 
 ## Work Experience
-* **Senior Lecturer, CSE (Full-time)**  
-  Northern University Bangladesh — *Oct 2026 – Present* (Lecturer, *Sep 2022 – Sep 2026*)  
-  Teaching BSc courses, including Database Management Systems, Artificial Intelligence & Expert Systems, Computer Architecture, Operating Systems, and Software Development. Supervising undergraduate theses on deep learning, image processing, and federated learning.
+<style>
+.xp{display:flex;gap:1em;margin:0 0 1.6em}
+.xp-logo{flex:0 0 52px;height:52px;border-radius:50%;border:2px solid #e3e3e3;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:.8em;color:#2a6f3e;background:#f6fbf7}
+.xp-body{flex:1;min-width:0}
+.xp-org{font-weight:700;margin:0}
+.xp-meta{color:#777;font-size:.88em;margin:0 0 .6em}
+.xp-roles{list-style:none;margin:0;padding:0}
+.xp-roles li{position:relative;padding:0 0 1em 1.4em;margin:0}
+.xp-roles li::before{content:"";position:absolute;left:3px;top:.45em;width:9px;height:9px;border-radius:50%;background:#aaa}
+.xp-roles li:not(:last-child)::after{content:"";position:absolute;left:7px;top:1.35em;bottom:.15em;width:2px;background:#ddd}
+.xp-role{font-weight:600;margin:0}
+.xp-date{color:#777;font-size:.88em;margin:0}
+.xp-desc{margin:.35em 0 0;font-size:.95em}
+</style>
+
+<div class="xp">
+  <div class="xp-logo">NUB</div>
+  <div class="xp-body">
+    <p class="xp-org">Northern University Bangladesh</p>
+    <p class="xp-meta">Full-time · Sep 2022 – Present · Dhaka, Bangladesh</p>
+    <ul class="xp-roles">
+      <li>
+        <p class="xp-role">Senior Lecturer, Dept. of CSE</p>
+        <p class="xp-date">Oct 2026 – Present</p>
+      </li>
+      <li>
+        <p class="xp-role">Lecturer, Dept. of CSE</p>
+        <p class="xp-date">Sep 2022 – Sep 2026</p>
+        <p class="xp-desc">Taught BSc courses including Database Management Systems, Artificial Intelligence &amp; Expert Systems, Computer Architecture, Operating Systems, and Software Development. Supervised undergraduate theses on deep learning, image processing, and federated learning.</p>
+      </li>
+    </ul>
+  </div>
+</div>
 
 * **Volunteer Assistant Researcher (Remote)**  
   Neuro-Analytics Lab, NJIT, USA — *Jul 2022 – Jun 2023*  

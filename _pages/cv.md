@@ -10,15 +10,15 @@ redirect_from:
 {% include base_path %}
 
 <div style="display: flex; justify-content: flex-end;">
-  <a href="https://rummanprodhan.github.io/files/Resume_Rumman_2025.pdf" class="btn btn-primary" download>Download CV (PDF)</a>
+  <a href="https://rummanprodhan.github.io/files/CV_Rumman_Ahmed_Prodhan.pdf" class="btn btn-primary" download>Download CV (PDF)</a>
 </div>
 
 ## Objective
-Dedicated academic and researcher with expertise in **Artificial Intelligence**, **Machine Learning**, and **Signal Processing**, currently serving as a **Lecturer** at Northern University Bangladesh. Passionate about advancing AI for healthcare and human behavior analysis through ethical, explainable, and collaborative research. Seeking to pursue a **Ph.D.** in Computer Science to contribute to high-impact interdisciplinary research in AI and federated systems.
+Dedicated academic and researcher with expertise in **Artificial Intelligence**, **Machine Learning**, and **Signal Processing**, currently serving as a **Senior Lecturer** at Northern University Bangladesh. Passionate about advancing AI for healthcare and human behavior analysis through ethical, explainable, and collaborative research. Seeking to pursue a **Ph.D.** in Computer Science to contribute to high-impact interdisciplinary research in AI and federated systems.
 
 ## Work Experience
-* **Lecturer (Full-time)**  
-  Northern University Bangladesh — *Sep 2022 – Present*  
+* **Senior Lecturer, CSE (Full-time)**  
+  Northern University Bangladesh — *Oct 2026 – Present* (Lecturer, *Sep 2022 – Sep 2026*)  
   Teaching BSc courses, including Database Management Systems, Artificial Intelligence & Expert Systems, Computer Architecture, Operating Systems, and Software Development. Supervising undergraduate theses on deep learning, image processing, and federated learning.
 
 * **Volunteer Assistant Researcher (Remote)**  
@@ -38,8 +38,9 @@ Dedicated academic and researcher with expertise in **Artificial Intelligence**,
 
 ## Education
 * **M.Sc. in Computer Science & Engineering**  
-  BRAC University, Dhaka, Bangladesh — *2025 – Present*  
-  *CGPA (1st Semester): 3.9/4.00*  
+  BRAC University, Dhaka, Bangladesh — *Coursework Completed, Thesis Ongoing*  
+  *CGPA: 3.95/4.00* — Awarded Merit Scholarship  
+  Advanced coursework: Neural Networks & Fuzzy Systems, Distributed Computing, Deep Learning for Computer Vision, Symbolic Machine Learning, Pattern Recognition, Parallel Algorithms.  
 
 * **B.Sc. in Computer Science & Engineering**  
   University of Asia Pacific, Dhaka, Bangladesh — *Apr 2018 – Jun 2022*  
@@ -57,13 +58,19 @@ Dedicated academic and researcher with expertise in **Artificial Intelligence**,
 - *“Evaluating the Effectiveness of Classification Algorithms for EEG Sentiment Analysis”* — **ICSADL 2022**, Nepal. [DOI](https://doi.org/10.1007/978-981-19-5443-6_17)  
 - *“Optimal EEG Electrode Set for Emotion Recognition From Brain Signals: An Empirical Quest”* — **ABC 2022**, London. [DOI](https://doi.org/10.1201/9781003371540-5)  
 - *“Enhanced Pediatric Dental Segmentation Using a Custom SegUNet with VGG19 Backbone on Panoramic Radiographs”* — **ICCIT 2024**, Bangladesh. [DOI](https://doi.org/10.1109/ICCIT64611.2024.11021764)  
-- *“Multimodal Deep Learning for Handwritten Prescription Recognition with Explainable AI”* — **ICCIT 2025 (Submitted)**  
+- *“Multimodal Deep Learning for Handwritten Prescription Recognition with Explainable AI”* — **2nd IEEE Quantum-inspired Patient Informatics (Q-PAIN), 2026** (IEEE Xplore). [DOI](https://doi.org/10.1109/QPAIN69676.2026.11546070)  
 
 ## Research Focus
 * EEG-based emotion recognition and cross-subject generalization  
 * Cross-domain federated learning for medical imaging  
 * Deep learning for medical and dental image segmentation  
 * Explainable AI for healthcare and decision support systems  
+
+## MSc Research Projects
+* **Unsupervised Acoustic Disentanglement via Hybrid Beta-VAE** — Fused convolutional spectral audio features with semantic embeddings to resolve cross-cultural genre overlaps; perfect separation (ARI = 1.0) on HBLM-100.
+* **Scalable Hybrid Parallelism for Federated Learning** — MPI (inter-node) + CUDA (intra-node) architecture tackling the straggler problem; 9.26× speedup over serial execution on SipakMed.
+* **Federated Domain Generalization (FedDG) for Cancer Diagnosis** — FedBN within the Flower framework to handle staining-protocol domain shift; 15% better cross-site robustness than FedAvg.
+* **Zero-Shot Cross-Dataset EEG Emotion Recognition** — CORAL regularization and MixStyle to transfer models between DEAP and DREAMER without retraining.
 
 ## Projects
 * **Cross-Device Skin Disease Classification using Federated Learning** — [Kaggle](https://www.kaggle.com/code/rummanahmedprodhan/cross-domain-federated-learning-skin-disease-poc)  

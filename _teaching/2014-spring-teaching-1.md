@@ -10,7 +10,7 @@ location: "Dhaka, Bangladesh"
 
 ### Courses Conducted
 
-I have been a **Lecturer** in the Department of Computer Science & Engineering at Northern University Bangladesh since **September 2022**. I conduct courses in various areas of Computer Science, with a focus on practical applications of Artificial Intelligence, Database Systems, and Software Development. The courses I have conducted include:
+I am a **Senior Lecturer** (since **October 2026**; Lecturer from **September 2022**) in the Department of Computer Science & Engineering at Northern University Bangladesh. I conduct courses in various areas of Computer Science, with a focus on practical applications of Artificial Intelligence, Database Systems, and Software Development. The courses I have conducted include:
 
 - **Artificial Intelligence and Expert System**
 - **Database Management Systems**

@@ -1,6 +1,8 @@
 ---
 layout: archive
-title: "Prospective Thesis Students"
+title: "For NUB Thesis Students"
+sitemap: false
+noindex: true
 permalink: /prospective-students/
 author_profile: true
 description: "Information and application form for Northern University Bangladesh BSc students who want to do their thesis under Rumman Ahmed Prodhan."
@@ -10,7 +12,7 @@ description: "Information and application form for Northern University Banglades
 
 <p class="ps-status"><strong>Status:</strong> Accepting applications from BSc thesis groups at Northern University Bangladesh.</p>
 
-I enjoy working with motivated students who want to do real research, and I aim for every thesis I supervise to lead to a **publishable contribution**. Because I receive many requests, I use this page and the form below to understand each group before we meet.
+This page is for Northern University Bangladesh students interested in doing their BSc thesis under my supervision. Because I receive many requests, I use the form below to understand each group before we meet.
 
 ### Research areas I currently supervise
 - Federated and privacy-preserving learning (medical imaging, remote sensing)
